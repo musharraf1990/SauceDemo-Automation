@@ -6,7 +6,7 @@ This is an automation script for the site https://www.saucedemo.com/
 
 The script is written in Python 🐍 and uses Selenium.
 
-## Details
+## Execution steps
 
 <ol>
 <li> Provides Username and Password.
