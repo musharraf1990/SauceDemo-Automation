@@ -4,9 +4,9 @@
 <br>
 This is an automation script for the site https://www.saucedemo.com/
 
-The script is written in Python and uses Selenium.
+The script is written in Python 🐍 and uses Selenium.
 
-This script does the following things in order:
+## Details
 
 <ol>
 <li> Provides Username and Password.
