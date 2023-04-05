@@ -1,6 +1,9 @@
-# saucedemo Automation
-
+# Saucedemo website Automation
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/selenium-brightgreen.svg?style=for-the-badge&logo=selenium&logoColor=white)
 This is an atomation script of the site https://www.saucedemo.com/
+
+The script is written in Python using Selenium.
 
 This script does the following things in order:
 
