@@ -5,10 +5,10 @@ from selenium.webdriver.common.by import By
 from time import sleep
 from selenium.common.exceptions import NoSuchElementException
 
-PATH = "C:\\Users\\mufti\\OneDrive\\Documents\\Github\\Selenium\\chromdriver.exe"
+PATH = "D:\\Musharraf\\Selenium Automation\\Care Modules\\chromdriver.exe"
 driver = webdriver.Chrome(PATH)
 driver.maximize_window()
-
+ 
 driver.get("https://www.saucedemo.com")
 sleep(2)
 search = driver.find_element(By.ID, "user-name")
@@ -29,7 +29,7 @@ search.send_keys("Anees")
 search = driver.find_element(By.ID, "last-name")
 search.send_keys("Mufti")
 search = driver.find_element(By.ID, "postal-code")
-search.send_keys("123456")
+search.send_keys("12345")
 sleep(1)
 search = driver.find_element(By.ID, "continue").click()
 sleep(2)
